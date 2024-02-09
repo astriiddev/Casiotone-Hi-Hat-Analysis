@@ -1,5 +1,5 @@
-#ifndef __CAX_LOOKUP_H
-#define __CAX_LOOKUP_H
+#ifndef __CAS_LOOKUP_H
+#define __CAS_LOOKUP_H
 
 /*
 *
@@ -50,4 +50,4 @@ const unsigned char metal_noise_lookup [METAL_NOISE_LENGTH] =
 }
 #endif
 
-#endif /* __CAX_LOOKUP_H */
+#endif /* __CAS_LOOKUP_H */
