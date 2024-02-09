@@ -47,6 +47,11 @@ The Casiotone has a unique and iconic hi hat sound with very little documentatio
 out there for how the hi hats are generated. I hope this analysis brings a bit more
 understanding for others to recreate this iconic sound.
 
+The WAV file is an audio sample of an the hi hatt/cymbal recreated with an arduino
+using the above method along with the VCA/filter circuits and a modified recreation
+of the Casiotone's kick drum circuit (recorded through a RAMSA WR-500 mixer and 
+Steinberg UR44 interface with Ardour 8).
+
 # References
 1. [Casiotone MT-45/MT-46 Service Manual](https://circuitbending.miraheze.org/wiki/File:Casio_MT-45_and_MT-46_Service_Manual.pdf)
 2. [TableHooters Casiotone MT-45](http://weltenschule.de/TableHooters/Casio_MT-45.html)
